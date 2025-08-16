@@ -1,2 +1,2 @@
-x = input("Enter the value : ")
-print(x)
+print("Welcome to the MACHINE LEARNING")
+print("THIS IS A TESTING MESSAGE , PLEASE IGNORE")
