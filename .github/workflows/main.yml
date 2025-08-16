@@ -19,7 +19,7 @@ jobs:
       run: sudo apt-get update && sudo apt-get install -y g++
 
     - name: Compile main.cpp
-      run: g++ -std=c++17 -Wall -Werror -o main main.cpp
+      run: g++ -std=c++17 -Wall -Werror -o main a.cpp
 
     - name: Run the program
       run: ./a
